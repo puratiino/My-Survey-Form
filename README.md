@@ -1,9 +1,5 @@
-<style>
-  u {
-  text-decoration: underline;
-}
-  </style>
-I Build a Survey Form, which was needed on the<strong> freecodecamp </strong>page to do.
+
+I Build a Survey Form, which was needed on the<strong><p style="background-color:powderblue;"> freecodecamp </p></strong>page to do.
 This form was to contain:<br>
 User Story #1: I can see a title with<strong> id="title"</strong> in<strong> H1</strong> sized text.
 
@@ -27,14 +23,14 @@ User Story #10: For the name, email, and number input fields inside the form I c
 
 User Story #11: For the name, email, and number input fields, I can see<strong> placeholder text</strong> that gives me a description or instructions for each field.
 
-User Story #12: Inside the form element, I can select an option from a<u> dropdown </u>that has a corresponding<strong> id="dropdown"</strong>.
+User Story #12: Inside the form element, I can select an option from a<strong> dropdown </strong>that has a corresponding<strong> id="dropdown"</strong>.
 
-User Story #13: Inside the form element, I can select a field from one or more groups of<u> radio buttons</u>. Each group should be grouped using the name attribute.
+User Story #13: Inside the form element, I can select a field from one or more groups of<strong> radio buttons</strong>. Each group should be grouped using the name attribute.
 
-User Story #14: Inside the form element, I can select several fields from a series of<u> checkboxes</u>, each of which must have a value attribute.
+User Story #14: Inside the form element, I can select several fields from a series of<strong> checkboxes</strong>, each of which must have a value attribute.
 
 User Story #15: Inside the form element, I am presented with a textarea at the end for additional comments.
 
-User Story #16: Inside the form element, I am presented with a button with id="submit" to submit all my inputs.
+User Story #16: Inside the form element, I am presented with a button with<strong> id="submit"</strong> to submit all my inputs.
 <h3>And finally the page had to pass a test, which it also passed.</h3>
 Simple.... Right :)
